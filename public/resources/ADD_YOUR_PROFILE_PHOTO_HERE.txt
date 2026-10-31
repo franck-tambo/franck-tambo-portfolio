@@ -1,0 +1,1 @@
+Add your portrait here and name it franck-profile.png. The portfolio expects public/resources/franck-profile.png.
